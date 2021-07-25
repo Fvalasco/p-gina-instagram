@@ -1,2 +1,2 @@
-# p-gina-instagram
+# pagina-instagram
 Página Inicial do Instagram
